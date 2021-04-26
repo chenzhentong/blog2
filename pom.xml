@@ -24,7 +24,7 @@
 		<!-- 公用基本包 -->
 		<commons-logging.version>1.0.4</commons-logging.version>
 		<commons-lang3.version>3.3.2</commons-lang3.version>
-		<commons-io.version>2.0.1</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<commons-fileupload.version>1.2.2</commons-fileupload.version>
 
 		<!-- 日志包log4j -->
